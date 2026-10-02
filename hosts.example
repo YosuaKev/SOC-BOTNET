@@ -1,0 +1,4 @@
+# SSH_TARGET INTERFACE
+agent-6@10.69.15.121 enp0s3
+alma-1@10.69.15.122 enp0s3
+admin@10.69.15.123 ens192
